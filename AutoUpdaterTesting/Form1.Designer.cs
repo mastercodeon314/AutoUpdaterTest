@@ -28,13 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.versionLbl = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // versionLbl
+            // 
+            this.versionLbl.AutoSize = true;
+            this.versionLbl.Location = new System.Drawing.Point(12, 9);
+            this.versionLbl.Name = "versionLbl";
+            this.versionLbl.Size = new System.Drawing.Size(90, 13);
+            this.versionLbl.TabIndex = 0;
+            this.versionLbl.Text = "Program Version: ";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(362, 47);
+            this.Controls.Add(this.versionLbl);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label versionLbl;
     }
 }
 

@@ -1,0 +1,10 @@
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\bin\Debug\AutoUpdaterTesting.exe.config
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\bin\Debug\AutoUpdaterTesting.exe
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\bin\Debug\AutoUpdaterTesting.pdb
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.csproj.AssemblyReference.cache
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.Form1.resources
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.Properties.Resources.resources
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.csproj.GenerateResource.cache
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.csproj.CoreCompileInputs.cache
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.exe
+C:\Users\Devtop1\Documents\GitHub\AutoUpdaterTest\AutoUpdaterTesting\obj\Debug\AutoUpdaterTesting.pdb
