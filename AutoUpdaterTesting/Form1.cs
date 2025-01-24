@@ -8,6 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AutoUpdaterDotNET;
 
 namespace AutoUpdaterTesting
 {
@@ -24,6 +25,8 @@ namespace AutoUpdaterTesting
             Version assemblyVersion = Assembly.GetExecutingAssembly().GetName().Version;
 
             versionLbl.Text = "Program Version: " + assemblyVersion.ToString();
+
+            AutoUpdater.Start("https://raw.githubusercontent.com/mastercodeon314/AutoUpdaterTest/refs/heads/master/AutoUpdaterTesting/AutoUpdaterTest.xml");
         }
     }
 }
