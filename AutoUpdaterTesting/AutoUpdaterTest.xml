@@ -2,6 +2,6 @@
 <item>
 	<version>1.0.0.1</version>
 	<url>https://github.com/mastercodeon314/AutoUpdaterTest/releases/download/v1.0.0.1/AutoUpdaterTesting.zip</url>
-	<changelog>https://github.com/mastercodeon314/AutoUpdaterTest/releases/</changelog>
+	<changelog>https://github.com/mastercodeon314/AutoUpdaterTest/releases/tag/v1.0.0.1</changelog>
 	<mandatory>false</mandatory>
 </item>
